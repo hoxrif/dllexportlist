@@ -1,4 +1,6 @@
 // hoxrif :)
+// Mustafa TERZI ~ 02.04.2023
+// mustafaterzii@yandex.com
 #include <windows.h>
 #include <iostream>
 #include <vector>
