@@ -2,6 +2,8 @@
  
 this code block is lists exported function(s) in dynamic link library(x64 or x86) on windows
 
+C++17 or greater
+
 usage;
 
 open folder with visual studio code
